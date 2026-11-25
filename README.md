@@ -44,7 +44,7 @@ Impano (Kinyarwanda for *gift / talent*) is a menu-driven Python command-line ap
 
 ```bash
 git clone https://github.com/anyieth-maker/Impano.git
-cd impano
+cd Impano
 python main.py            # run the app
 python main.py --reset    # wipe the database and reload sample data
 ```
@@ -208,6 +208,8 @@ erDiagram
 
 ## Team
 
-This project was designed, built, tested and documented by one group member.
+| Member | GitHub | Contribution |
+|---|---|---|
+| Anyieth Maker Thiong But | [@anyieth-maker](https://github.com/anyieth-maker) | Designed, built, tested and documented the whole project |
 
-**Others: did not contribute.**
+Other group members did not contribute to PLP-2.
