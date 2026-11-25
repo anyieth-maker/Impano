@@ -43,7 +43,7 @@ Impano (Kinyarwanda for *gift / talent*) is a menu-driven Python command-line ap
 **Requirements:** Python 3.8 or newer. No extra packages: `sqlite3` ships with Python.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/anyieth-maker/Impano.git
 cd impano
 python main.py            # run the app
 python main.py --reset    # wipe the database and reload sample data
